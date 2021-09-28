@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on LumenScript</title>
-    <link>/blog/</link>
+    <link>https://lumenscript.com/blog/</link>
     <description>Recent content in Blog on LumenScript</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="https://lumenscript.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>7 Mansions</title>
-      <link>/blog/post-4/</link>
+      <link>https://lumenscript.com/blog/post-4/</link>
       <pubDate>Wed, 22 Sep 2021 13:22:16 -0800</pubDate>
       
-      <guid>/blog/post-4/</guid>
+      <guid>https://lumenscript.com/blog/post-4/</guid>
       <description>First Mansion Purgative</description>
     </item>
     
     <item>
       <title>Vy</title>
-      <link>/blog/post-3/</link>
+      <link>https://lumenscript.com/blog/post-3/</link>
       <pubDate>Fri, 17 Sep 2021 11:22:16 +0600</pubDate>
       
-      <guid>/blog/post-3/</guid>
+      <guid>https://lumenscript.com/blog/post-3/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>O Holy Family Song</title>
-      <link>/blog/post-1/</link>
+      <link>https://lumenscript.com/blog/post-1/</link>
       <pubDate>Fri, 27 Aug 2021 13:22:16 +0600</pubDate>
       
-      <guid>/blog/post-1/</guid>
+      <guid>https://lumenscript.com/blog/post-1/</guid>
       <description>&amp;ldquo;O Holy Family&amp;rdquo; is a song I wrote for the piano or keyboard. It also includes the melody and lyrics for singing.</description>
     </item>
     
     <item>
       <title>Human Gut Microbes Could Make Processed Foods Healthier</title>
-      <link>/blog/post-2/</link>
+      <link>https://lumenscript.com/blog/post-2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>/blog/post-2/</guid>
+      <guid>https://lumenscript.com/blog/post-2/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
