@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sample Chapters on LumenScript</title>
+    <link>https://lumenscript.com/preview/</link>
+    <description>Recent content in Sample Chapters on LumenScript</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="https://lumenscript.com/preview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Moonrise Warrior</title>
+      <link>https://lumenscript.com/preview/moonrise-1/</link>
+      <pubDate>Sun, 28 Nov 2021 10:22:16 -0700</pubDate>
+      
+      <guid>https://lumenscript.com/preview/moonrise-1/</guid>
+      <description>By Vy Nguyen
+Prologue The moon brought radiance to the night, but to Khanh’s life, only darkness. The boots of the palace soldiers crowded into his room.</description>
+    </item>
+    
+  </channel>
+</rss>
